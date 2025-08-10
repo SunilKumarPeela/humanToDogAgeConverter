@@ -36,3 +36,22 @@ var myName = 'sunil'.toLowerCase();
 
 // Final result
 console.log(`My name is ${myName}. I am ${myAge} years old in human years which is ${myAgeInDogYears} years old in dog years.`);
+
+```
+---
+
+#### Output
+
+```
+21
+120
+My name is sunil. I am 32 years old in human years which is 141 years old in dog years.
+```
+
+Another possible run:
+```
+21
+80
+My name is sunil. I am 22 years old in human years which is 101 years old in dog years.
+```
+
